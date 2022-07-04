@@ -25,7 +25,7 @@ Access my site at [abhishekpanwar.netlify.app]
 Picture by [abhishekpanwarrr](![calculator-app](https://user-images.githubusercontent.com/40629087/177134748-ac38c059-26f7-43a7-8681-973ecccdfd06.jpeg)
 
 ## Technologies
-I used `html`, `css`, ...
+I used React Native Framework to build this app/
 
 ### Software prerequisites
 
